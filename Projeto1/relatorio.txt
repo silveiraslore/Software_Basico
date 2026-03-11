@@ -1,0 +1,8 @@
+Lorena Silveira dos Santos, 2312667 33WC
+
+O código funcionou conforme o esperado para os seguintes casos testados:
+- arquivos pequenos
+- arquivos com emojis
+- arquivos grandes
+- casos em que o BOM é inválido
+- casos em que o arquivo em UTF32 é big-endian e little-endian
