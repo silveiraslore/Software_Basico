@@ -1,5 +1,5 @@
 # Software_Basico
-# Basic Software – Labs & Projects
+## Basic Software – Labs & Projects
 
 This repository contains all laboratory exercises and projects developed during the **Basic Software** course, with a focus on low-level programming and system-level concepts.
 
